@@ -138,31 +138,5 @@ You are welcome to complete more than one task if you’d like to demonstrate a 
 
 ---
 
-### 6. **Deliverables**
 
-At the end of the task, please submit:
 
-- A **zip archive** of the entire repository (including your changes).  
-- A markdown file named **`FEEDBACK.md`**, completed according to the provided format.  
-  - Each section of the format should be answered.  
-  - Use this file to document your approach, assumptions, challenges faced, and potential improvements you would make with more time.
-
----
-
-### 7. **Evaluation Criteria**
-Submissions will be evaluated based on the following:
-
-- **Code Quality** → readability, maintainability, and clarity of structure  
-- **Security** → proper handling of authentication, authorization, and input validation  
-- **Laravel Best Practices** → appropriate use of controllers, migrations, Eloquent models, and conventions  
-- **Bonus Considerations** → presence of automated tests, modular design patterns 
-
----
-
-### 8. **Nice‑to‑Have (Optional)**
-The following are not required but will be viewed positively:
-- Additional validation or robust error handling  
-- Reusable components or abstractions that improve maintainability  
-- Thoughtful UI/UX touches that enhance usability without detracting from the core logic
-
----
