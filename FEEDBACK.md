@@ -57,19 +57,4 @@ I'm still a beginner with the Laravel framework, but I'm actively using AI as a 
 
 I used a local development environment (Laragon) to run the application instead of Docker. This allowed me to quickly set up PHP, MySQL, and Composer.
 
-## Overview
-For back end development task, it is a partially built Laravel Content Management System where I was tasked with completing numerous unfinished features — including remember me login, route protection, a publish toggle, and featured image upload.
 
-// Since my Laravel experience was mostly from coursework, I wasn't always sure where to start or which files to touch. I used AI as a reference in the process The AI would point me in the right direction, explain the concept briefly, and suggest what to write. I would then apply it to the actual code, test it in the browser, and come back if something didn't work as expected.
-
-// It felt more like having someone to consult rather than having the work done for me — I still had to understand each change, put it in the right place, and debug when things didn't go as planned.
-
-The biggest thing I learned was how the four layers connect in practice — how a route points to a controller, the controller talks to the model, and the model's data ends up in the view. It sounds simple but it only made sense once I had to actually follow the code to track down a bug.
-
-## Task 1 (Remember Me) — The login form now keeps the admin logged in after closing and reopening the browser when the checkbox is ticked.
-
-## Task 2 (Route Protection) — Logged-in admins are redirected away from the login page, and unauthenticated users cannot access any admin post routes.
-
-## Task 3 (Instant Publish Toggle) — Each post in the admin list has a toggle button that switches between published and unpublished instantly, without going into the edit form.
-
-## Task 4 (Featured Image) — Admins can now upload an image when creating or editing a post. The image is previewed in the edit form and displayed on the public post listing page.
